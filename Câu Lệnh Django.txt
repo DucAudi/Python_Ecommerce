@@ -1,0 +1,19 @@
+DJANGO PYTHON --
+
+Install Django: pip install django 
+To update, run: python.exe -m pip install --upgrade pip
+Create Project: django-admin startproject <ten project>
+cd <ten project> 
+Khởi tạo mặc định ban đầu của trang web: python manage.py migrate
+RunServer: python manage.py runserver <tên cổng>
+
+
+Tao User Admin: python manage.py createsuperuser
+
+
+pip install django
+python.exe -m pip install --upgrade pip
+django-admin startproject <ten project>
+cd <ten project>
+python manage.py migrate
+python manage.py runserver <tên cổng>
